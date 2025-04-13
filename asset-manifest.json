@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.045f54b3.css",
+    "main.js": "/static/js/main.2b2f0951.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/retail.png": "/static/media/retail.7e5d31f7a0d00388b949.png",
+    "static/media/dtec.png": "/static/media/dtec.4aef53f8a4d97fe4076b.png",
+    "static/media/euler.png": "/static/media/euler.a085bcd723e3167f43db.png",
+    "static/media/mech.png": "/static/media/mech.82c0656eb69b400e6717.png",
+    "static/media/Git1.png": "/static/media/Git1.3fc5ead9ff318bda611c.png",
+    "static/media/cnoc.png": "/static/media/cnoc.96f351a701395d352884.png",
+    "static/media/back1.png": "/static/media/back1.aca908d6d590190285f9.png",
+    "static/media/3rd.png": "/static/media/3rd.3682980d655c3f4ab05e.png",
+    "static/media/link.png": "/static/media/link.3dc9826907b7beee4350.png",
+    "static/media/dcu.png": "/static/media/dcu.00ccd0193cf9b7c0323d.png",
+    "static/media/bash.png": "/static/media/bash.13d756a3e4a1deaf2bb5.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.045f54b3.css.map": "/static/css/main.045f54b3.css.map",
+    "main.2b2f0951.js.map": "/static/js/main.2b2f0951.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.045f54b3.css",
+    "static/js/main.2b2f0951.js"
+  ]
+}
