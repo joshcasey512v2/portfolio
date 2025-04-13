@@ -11,32 +11,33 @@ import { ExpCard } from "./ExpCard";
 
 export const Experience = () => {
 
-    const experience = [
-        {
-          title: "Assistant Mechanic",
-          duration: "2018-2019",
-          description: "Heavy lifting and car repairs",
-          img: mech,
-        },
-        {
-          title: "Retail",
-          duration: "2021-2022",
-          description: "Handling currency exchanges and stock checks",
-          img: retail,
-        },
-        {
-          title: "General operator",
-          duration: "Summer 2023",
-          description: "Production of raw materials for cat and dog food",
-          img: cd,
-        },
-        {
-          title: "Field Engineer",
-          duration: "2024 - Present",
-          description: "Finding solutions for network issues",
-          img: dtec,
-        }
-      ];
+  const experience = [
+    {
+      title: "Assistant Mechanic",
+      duration: "2018-2019",
+      description: "Assisted in vehicle maintenance and repair, including diagnostics, heavy lifting, and part replacements in a fast-paced garage environment.",
+      img: mech,
+    },
+    {
+      title: "Retail Associate",
+      duration: "2021-2022",
+      description: "Managed customer transactions, facilitated currency exchanges, and ensured accurate stock inventory and shelf replenishment.",
+      img: retail,
+    },
+    {
+      title: "General Operator",
+      duration: "Summer 2023",
+      description: "Operated machinery and handled raw material processing for pet food production while maintaining safety and quality standards.",
+      img: cd,
+    },
+    {
+      title: "Field Engineer",
+      duration: "2024 - Present",
+      description: "Diagnose and resolve complex network issues on-site, delivering reliable solutions and technical support to maintain optimal system performance.",
+      img: dtec,
+    }
+  ];
+  
 
       const education = [
         {
