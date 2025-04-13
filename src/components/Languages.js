@@ -57,6 +57,9 @@ export const Languages = () => {
                                 <div className="item">
                                     <h5>JavaScript</h5>
                                 </div>
+                                <div className="item">
+                                    <h5>Rust</h5>
+                                </div>
                             </Carousel>
                         </div>
                     </div>
