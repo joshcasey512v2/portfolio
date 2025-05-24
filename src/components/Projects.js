@@ -5,6 +5,7 @@ import snake from '../pictures/snake.png'
 import bash from '../pictures/bash.png'
 import euler from '../pictures/euler.png'
 import third from '../pictures/3rd.png';	
+import st from '../pictures/smart_turn.png'
 
 export const Projects = () => {
 
@@ -26,6 +27,12 @@ export const Projects = () => {
           description: "Check out my 3rd Year DCU Project",
           link: 'https://gitlab.computing.dcu.ie/caseyj24/2024-ca326-jcasey-3rdyearproject',
           img: third,
+        },
+        {
+          title: "Smart Turn",
+          description: "4th Year DCU Project consisting of an Iot Device and a Flutter Application",
+          link: 'https://github.com/joshcasey512v2/Smart-Turn',
+          img: st,
         },
         {
           title: "Euler Problems",

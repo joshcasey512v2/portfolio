@@ -47,7 +47,7 @@ export const Experience = () => {
         },
         {
             title: "DCU",
-            duration: "2021 - present",
+            duration: " BSc in Computer Science\n2021 - 2025",
             img: dcu,
         }
       ];
