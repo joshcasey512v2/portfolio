@@ -41,6 +41,16 @@ export const Projects = () => {
           img: euler,
         },
       ];
+
+    const certificates = [
+        {
+          title: "AWS Free Tier",
+          description: "Completed AWS Free Tier and foundational cloud concepts.",
+          link: "",
+          img: '',
+        },
+      ];
+
       return (
         <section className="project" id="projects">
           <Container>
@@ -54,13 +64,13 @@ export const Projects = () => {
                     <Tab.Container id="projects-tabs" defaultActiveKey="first">
                       <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                         <Nav.Item>
-                          <Nav.Link eventKey="first">Tab 1</Nav.Link>
+                          <Nav.Link eventKey="first">Projects</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
-                          <Nav.Link eventKey="second">Tab 2</Nav.Link>
+                          <Nav.Link eventKey="second">Certificates</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
-                          <Nav.Link eventKey="third">Tab 3</Nav.Link>
+                          <Nav.Link eventKey="third">Cplus</Nav.Link>
                         </Nav.Item>
                       </Nav>
                       <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
@@ -79,10 +89,10 @@ export const Projects = () => {
                           </Row>
                         </Tab.Pane>
                         <Tab.Pane eventKey="second">
-                            <h5>To be added.</h5>
+                            <h5>Place holder for obtained certificates</h5>
                         </Tab.Pane>
                         <Tab.Pane eventKey="third">
-                            <h5>To be added.</h5>
+                            <h5>Add direct to Cplus documentation</h5>
                         </Tab.Pane>
                       </Tab.Content>
                     </Tab.Container>

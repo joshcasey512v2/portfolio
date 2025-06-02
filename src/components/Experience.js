@@ -31,7 +31,7 @@ export const Experience = () => {
       img: cd,
     },
     {
-      title: "Field Engineer",
+      title: "Telecoms Field Engineer",
       duration: "2024 - Present",
       description: "Diagnose and resolve complex network issues on-site, delivering reliable solutions and technical support to maintain optimal system performance.",
       img: dtec,
