@@ -1,11 +1,13 @@
 import { Container, Nav, Row, Col, Tab } from "react-bootstrap";
 import TrackVisibility from 'react-on-screen';
 import { ProjectCard } from "./ProjectCard";
-import snake from '../pictures/snake.png'
-import bash from '../pictures/bash.png'
-import euler from '../pictures/euler.png'
+import snake from '../pictures/snake.png';
+import bash from '../pictures/bash.png';
+import euler from '../pictures/euler.png';
 import third from '../pictures/3rd.png';	
-import st from '../pictures/smart_turn.png'
+import st from '../pictures/smart_turn.png';
+import jf from '../pictures/javaFarm.png';
+import dp from '../pictures/DP.png';
 
 export const Projects = () => {
 
@@ -35,10 +37,22 @@ export const Projects = () => {
           img: st,
         },
         {
+          title: "Java Thread Farm Simulation",
+          description: "Showcase concurrency concepts using Java",
+          link: 'https://github.com/joshcasey512v2/Java-Thread-Farm-Simulation',
+          img: jf,
+        },
+        {
           title: "Euler Problems",
           description: "Mathamatical problems solved with C++",
           link: '',
           img: euler,
+        },
+        {
+          title: "Design Patterns & Elements of Reusable Object-Oriented Software",
+          description: "Command line course based off rustlings to teach Design Patterns & Problem Solving in C++",
+          link: 'https://github.com/joshcasey512v2/DPEOROOS',
+          img: dp,
         },
       ];
 
